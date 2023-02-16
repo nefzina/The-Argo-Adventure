@@ -1,0 +1,45 @@
+#assetsPage {
+  width: 100%;
+  max-width: 1440px;
+}
+
+#assetsPage h2 {
+  font: 900 40px "Fraunces", serif;
+  color: #724e3a;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+#assetSection {
+  width: 100%;
+  position: relative;
+}
+#assetSection img {
+  width: 100%;
+  display: block;
+}
+
+table {
+  width: 50%;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+}
+th,
+td {
+  height: 50px;
+  padding: 10px 50px 10px 50px;
+  text-align: center;
+}
+#tabHeader th {
+  font: 600 22px "Barlow", sans-serif;
+  color: white /*#362319 */;
+  border: 1px solid #69452f;
+  background-color: #9b694b;
+}
+.data {
+  font: 600 18px "Barlow", sans-serif;
+  color: #301e14;
+  background-color: #e6dbd5;
+}
